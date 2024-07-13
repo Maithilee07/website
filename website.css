@@ -1,0 +1,139 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #D7F5DC;
+    
+}
+.navbar{
+    width: 1350px;
+    height: 60px;
+    border: 2px solid #20B15A;
+    background-color: #20B15A;
+    position: sticky;
+    
+}
+.bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: sticky;
+
+}
+.row{
+    width: 900px;
+    
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+    
+}
+.agency{
+   margin-right: 500px;
+   margin-left: 50px;
+   font-size: 25px;
+}
+.top{
+    margin-right: 30px;
+    color: white;  
+}
+#t{
+    border: 1.15px solid white;
+    border-radius: 11.46px;
+    width: 90px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    cursor: pointer;
+    color: black;
+    
+}
+.title{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 700px;
+    margin-top: 10px;
+}
+.head{
+    width: 500px;
+    height: 100px;
+    font: 700px;
+    font-size: 50px;
+}
+.pg{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 550px;
+  height: 70px;
+  font-size: 20px;
+
+}
+.button{
+    border: 1px solid #20B15A;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    height: 50px;
+    background-color: #20B15A;
+    color: white;
+    cursor: pointer;
+}
+.lady{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+    size: 20px;
+    
+
+    
+
+}
+.footer{
+    width: 1350px;  
+    height: 80px;
+    border: 2px solid white;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+     
+}
+.img{
+    width: 1300px;
+    height: 10px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+#pic{
+    height: 70px;
+    width: 70px;
+    margin-inline: 100px;
+    cursor: pointer;
+    
+}
+#pc{
+    height: 70px;
+    width: 70px;
+    margin-inline: 100px;
+    cursor: pointer;
+}
